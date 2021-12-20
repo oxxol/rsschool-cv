@@ -15,3 +15,24 @@
 My work experience is not related to IT, but I have always been interested in computers. I recently started learning frontend and I can't stop. This area is very interesting to me and I want to develop in it. I'm sure my dedication and hard work will help me.
 
 ---
+
+### **Skills**
+
+- HTML
+- CSS
+- Figma
+- JavaScript
+- Visual Studio Code
+- Git, GitHub
+
+---
+
+### **Code example**
+
+```
+function multiply(a, b) {
+
+return a * b;
+
+}
+```
