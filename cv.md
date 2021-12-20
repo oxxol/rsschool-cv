@@ -1,5 +1,9 @@
 # **Oxana Oleynikova**
 
+## ![My foto](foto.jpg)
+
+---
+
 ### **Contact Info**
 
 - **Phone:** +48791785047
