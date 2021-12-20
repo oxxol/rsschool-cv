@@ -36,3 +36,32 @@ return a * b;
 
 }
 ```
+
+---
+
+### **Experience**
+
+CV https://oxxol.github.io/rsschool-cv/cv
+
+---
+
+### **Education**
+
+- RSSchool
+  - RS School Course «JavaScript/Front-end. Stage 0» (in progress)
+- GoIt
+  - Master Class HTML, CSS
+- HTML academy
+  - Master Class HTML, CSS
+- Moscow State Mining University
+  - Management
+- Center for training, retraining and advanced training of Moscow
+  - Economics and accounting
+
+---
+
+### **Languages**
+
+- Russian (native)
+- Polish (A2)
+- English (A1-A2)
