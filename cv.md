@@ -1,6 +1,6 @@
 # **Oxana Oleynikova**
 
-## ![My foto](foto.jpg)
+![My foto](foto.jpg)
 
 ---
 
